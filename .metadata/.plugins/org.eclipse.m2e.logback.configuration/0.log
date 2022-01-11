@@ -923,3 +923,5 @@ org.apache.maven.project.ProjectBuildingException: Some problems were encountere
 2022-01-11 16:25:43,854 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-01-11 16:25:43,855 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-01-11 16:25:43,855 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-11 16:25:43,857 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-11 16:25:43,857 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dtp\pho\treinamento\ws-devsuperior\dsmovie\backend\src\test\resources
