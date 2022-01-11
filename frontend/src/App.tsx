@@ -1,7 +1,8 @@
+import Navbar from 'components/Navbar';
 
 function App() {
   return (
-    <h1>Principio</h1>
+    <Navbar></Navbar>
   );
 }
 
