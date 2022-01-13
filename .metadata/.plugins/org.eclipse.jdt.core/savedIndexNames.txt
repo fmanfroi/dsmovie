@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\dtp\pho\treinamento\ws-devsuperior\dsmovie\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
