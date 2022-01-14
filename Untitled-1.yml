@@ -1,0 +1,49 @@
+https://www-marketplace.prevnet/gestao[16:54] Ana Karolina dos Santos
+PUT /marketplaceServices/rest/v3/gestao/contrato HTTP/1.1
+Host: api-sp.dataprev.gov.br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Authorization: Bearer c1cedc39-3b52-3a05-99a2-5bf23adbe7ce
+Content-Length: 272050
+Origin: https://www-marketplace.prevnet
+Connection: keep-alive
+Referer: https://www-marketplace.prevnet/gestao
+
+[16:55] Ana Karolina dos Santos
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 13 Jan 2022 19:52:00 GMT
+Server: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+Origin: https://www-marketplace.prevnet
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST,PUT,GET
+Referer: https://www-marketplace.prevnet/gestao
+X-Forwarded-Host: api-sp.dataprev.gov.br
+X-Forwarded-Proto: https
+Accept-Encoding: gzip, deflate, br
+X-Forwarded-Port: 443
+Access-Control-Allow-Headers: authorization,Access-Control-Allow-Origin,Content-Type,SOAPAction
+X-Forwarded-For: 10.253.193.81
+Accept-Language: en-US,en;q=0.5
+X-Forwarded-Server: api-sp.dataprev.gov.br
+Content-Type: application/xml; charset=UTF-8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 226
+Connection: close
+
+[16:55] Ana Karolina dos Santos
+GET /marketplaceServices/rest/v3/gestao/contrato HTTP/1.1
+Host: api-sp.dataprev.gov.br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Authorization: Bearer c1cedc39-3b52-3a05-99a2-5bf23adbe7ce
+Content-Type: application/json
+Origin: https://www-marketplace.prevnet
+Connection: keep-alive
+Referer: https://www-marketplace.prevnet/gestao
+
